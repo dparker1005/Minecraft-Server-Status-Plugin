@@ -1,0 +1,28 @@
+.mc_green{
+	color:#3aaf2f;
+}
+
+.mc_hostname{
+	margin:5px;
+}
+
+.mc_red{
+	color:#aa0b0b;
+}
+
+.mc_server_div{
+	background-color:#cecece;
+	height:210px;
+	width:300px;
+	text-align:center;
+	margin: 10px;
+	border: 5px solid black;
+}
+
+.mc_yellow{
+	color:#d8d83c;
+}
+
+p{
+	margin:5px
+}
