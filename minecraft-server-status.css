@@ -1,3 +1,13 @@
+/**
+ * @package minecraft-server-status
+ * @version 1.0
+ */
+/*
+Plugin Name: Minecraft Server Status
+Description: Shows information about a minecraft server
+Author: David Parker
+*/
+
 .mc_green{
 	color:#3aaf2f;
 }

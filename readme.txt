@@ -1,6 +1,6 @@
 === Minecraft Server Status ===
 Contributors: David Parker
-Version: 0.1
+Version: 1.0
 
 ——— Description ———
 This plugin will display information about a Mincraft server

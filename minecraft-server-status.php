@@ -1,13 +1,12 @@
 <?php
 /**
  * @package minecraft-server-status
- * @version 0.1
+ * @version 1.0
  */
 /*
 Plugin Name: Minecraft Server Status
 Description: Shows information about a minecraft server
 Author: David Parker
-Version: 0.1
 */
 function mc_server_status($atts){
 
