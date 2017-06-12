@@ -1,7 +1,7 @@
 <?php
 /**
  * @package minecraft-server-status
- * @version 1.1
+ * @version 1.1.1
  */
 /*
 Plugin Name: Minecraft Server Status
